@@ -13,7 +13,7 @@ namespace EcuatiaDeGrad2
         static void Main(string[] args)
         {
             bool isValid = true;
-            float a, b, c;
+            float a = 0, b = 0, c = 0;
 
             Console.WriteLine("Rezolvati ecuatia de gradul 2 cu o necunoscuta: ax^2 + bx + c = 0, unde a, b si c sunt date de intrare.");
             Console.WriteLine("Tratati toate cazurile posibile");
