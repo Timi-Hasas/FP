@@ -1,0 +1,7 @@
+D:\Probleme Visual Studio\EcuatiaDeGrad1\bin\Debug\EcuatiaDeGrad1.exe.config
+D:\Probleme Visual Studio\EcuatiaDeGrad1\bin\Debug\EcuatiaDeGrad1.exe
+D:\Probleme Visual Studio\EcuatiaDeGrad1\bin\Debug\EcuatiaDeGrad1.pdb
+D:\Probleme Visual Studio\EcuatiaDeGrad1\obj\Debug\EcuatiaDeGrad1.csprojAssemblyReference.cache
+D:\Probleme Visual Studio\EcuatiaDeGrad1\obj\Debug\EcuatiaDeGrad1.csproj.CoreCompileInputs.cache
+D:\Probleme Visual Studio\EcuatiaDeGrad1\obj\Debug\EcuatiaDeGrad1.exe
+D:\Probleme Visual Studio\EcuatiaDeGrad1\obj\Debug\EcuatiaDeGrad1.pdb
