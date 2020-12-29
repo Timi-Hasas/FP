@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_EcuatiaDeGrad1", "01_EcuatiaDeGrad1.csproj", "{55D0D9D0-F850-4A30-B486-6DB1A9B9B4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D0D9D0-F850-4A30-B486-6DB1A9B9B4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D0D9D0-F850-4A30-B486-6DB1A9B9B4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D0D9D0-F850-4A30-B486-6DB1A9B9B4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D0D9D0-F850-4A30-B486-6DB1A9B9B4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {929C83E3-C0CD-4E2A-AE5A-BC65B21C173A}
+	EndGlobalSection
+EndGlobal
